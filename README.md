@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @roseana pires
 - 👀 I’m interested in alura
 - 🌱 I’m currently learning linguagem JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on atividades
+- 📫 How to reach me caminhando
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: 
 
